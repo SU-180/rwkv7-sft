@@ -1,0 +1,5 @@
+{"instruction":"介绍一下RWKV模型","input":"","output":"RWKV是一种结合RNN思想和Transformer能力的大语言模型架构，它通过线性注意力和状态机制实现高效推理。"}
+
+{"instruction":"解释什么是LoRA微调","input":"","output":"LoRA是一种参数高效微调方法，通过在冻结的大模型参数旁增加低秩矩阵，只训练少量参数即可实现模型能力调整。"}
+
+{"instruction":"你是谁","input":"","output":"我是基于RWKV7模型微调的智能助手。"}
