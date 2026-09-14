@@ -1,0 +1,18 @@
+# training output
+output/
+
+# model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# checkpoints
+checkpoint*/
+
+# dataset
+data/
+
+# python cache
+__pycache__/
+*.pyc
